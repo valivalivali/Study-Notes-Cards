@@ -1,24 +1,26 @@
-# Privacy Policy
+# Privacy Policy for Study Notes & Cards
 
-This Privacy Policy explains how **Study Notes & Cards** ("the App," "we," "us," or "our") collects, uses, and protects your information. Our philosophy is simple: **we do not want your data.**
+Thank you for choosing Study Notes & Cards. Your privacy is critically important to us. This Privacy Policy outlines our commitment to protecting your data.
 
-## 1. Information Collection and Use
-Study Notes & Cards is a completely local, offline application. We do not require you to create an account, nor do we ask for any personal information to use the App.
+## Your Data Stays on Your Device
+Study Notes & Cards is built entirely as a local, offline-first application. 
+- **No Servers**: We do not maintain any servers to store your study data.
+- **No Accounts**: You are not required to create an account or provide any personal information to use the app.
+- **Local Storage**: All of your Subjects, Decks, Cards, Notes, and Study Logs are processed and saved securely on your device using Apple's local databases (SwiftData).
 
-All data you generate within the App—including your Subjects, Decks, Notes, Cards, and study session history—is stored exclusively on your device using Apple’s standard local storage databases. We have no servers, and we never transmit, upload, or sync your study data to any external servers or third parties.
+## What We Do Not Collect
+- We **do not** collect personal identification information.
+- We **do not** collect analytics or usage metrics regarding your study habits.
+- We **do not** collect crash reports (unless you explicitly opt-in via Apple's built-in crash reporting).
+- We **do not** track your location.
 
-## 2. Analytics and Third-Party Services
-The App does not use any third-party analytics, tracking SDKs, or advertising networks. We do not track your app usage, location, or study habits.
+## Third-Party Services
+This app does not use any third-party analytics, tracking SDKs, or advertising networks. Your learning experience is completely free from external tracking.
 
-## 3. Data Security
-Because your data never leaves your device, it benefits from the robust security features built directly into macOS and iOS. The security of your data is governed by the security settings of your device (e.g., your device passcode or biometrics).
+## Contact Us
+Because we do not collect any data, we have no data to delete or modify upon request. However, if you have any questions or concerns about this Privacy Policy, please feel free to reach out to us at:
 
-## 4. Children’s Privacy
-Since we do not collect any personal data from anyone, our App is safe for use by children. We do not knowingly collect or solicit personal information from children under the age of 13.
+**Email**: valivalivali128@gmail.com
 
-## 5. Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. If we make material changes, we will notify you by updating the “Effective Date” at the top of this policy and, if applicable, through the App Store update notes.
-
-## 6. Contact Us
-If you have any questions or concerns about this Privacy Policy or your data, please contact us at:  
-**Email:** support@[valivalivali128@gmail.com.com]
+---
+*By using the Application, you agree to the terms explicitly stated in this Privacy Policy.*
